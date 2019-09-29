@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "110313774051",
+    "firebase_url": "https://helmetv01.firebaseio.com",
+    "project_id": "helmetv01",
+    "storage_bucket": "helmetv01.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:110313774051:android:ae90b8c616e1be8caaded6",
+        "android_client_info": {
+          "package_name": "shatter.kedia.helmetv01"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "110313774051-geq2cqiteh6jct266f30u5fe5qaa4sje.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAQE7HdfqJwMiFACFXBnxKEHdrr9p4dMRQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "110313774051-geq2cqiteh6jct266f30u5fe5qaa4sje.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

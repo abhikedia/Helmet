@@ -1,4 +1,6 @@
 import 'package:flutter/material.dart';
+import './LoginSignup.dart';
+import 'package:flutter_login_demo/services/authentication.dart';
 
 void main() {
   runApp(MainPage());
@@ -15,7 +17,7 @@ class _MainPageState extends State<MainPage> {
     return new MaterialApp(
       debugShowCheckedModeBanner: false,
       title: "Helmet",
-      home: new Text("hey"),
+      home: new LoginSignup(),
     );
   }
 }

@@ -17,7 +17,6 @@ class _LoginSignupState extends State<LoginSignup> {
     print(email.text);
     print(password.text);
 
-    //FirebaseUser userId = await auth.signInWithEmailAndPassword(email.text, password.text);
     FirebaseUser userId = await FirebaseAuth.instance
         .signInWithEmailAndPassword(email: email.text, password: password.text);
     print('Signed in: $userId');

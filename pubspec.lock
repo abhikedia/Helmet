@@ -74,6 +74,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "4.0.7"
+  intl:
+    dependency: transitive
+    description:
+      name: intl
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "0.16.0"
   matcher:
     dependency: transitive
     description:
@@ -116,13 +123,6 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "2.0.5"
-  simple_permissions:
-    dependency: "direct main"
-    description:
-      name: simple_permissions
-      url: "https://pub.dartlang.org"
-    source: hosted
-    version: "0.1.9"
   sky_engine:
     dependency: transitive
     description: flutter
@@ -156,6 +156,13 @@ packages:
       url: "https://pub.dartlang.org"
     source: hosted
     version: "1.0.5"
+  syncfusion_flutter_charts:
+    dependency: "direct main"
+    description:
+      name: syncfusion_flutter_charts
+      url: "https://pub.dartlang.org"
+    source: hosted
+    version: "1.0.0-beta.5"
   term_glyph:
     dependency: transitive
     description:
